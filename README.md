@@ -1,11 +1,11 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Hi+There!+I'm+zero0-sys;Cybersecurity+Enthusiast+%26+Ethical+Hacker;Daily+OS:+Kali+Linux+%26+Arch+Linux;echo+%22I+am+a+Hacker!%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Hi+There!+I'm+netyc;Cybersecurity+Enthusiast+%26+Ethical+Hacker;Daily+OS:+Kali+Linux+%26+Arch+Linux;echo+%22I+am+a+Hacker!%22" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=120&lines=root%40kali%3A~%23+neofetch;OS%3A+Kali+GNU%2FLinux+Rolling+x86_64;Kernel%3A+Linux+6.6.9-amd64;root%40kali%3A~%23+msfconsole+-q;msf6+%3E+use+exploit%2Fmulti%2Fhandler" alt="Kali Linux OS Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=120&lines=root%40kali%3A~%23+neofetch;OS%3A+Kali+GNU%2FLinux+Rolling+x86_64;Kernel%3A+Linux+6.6.9-amd64;root%40kali%3A~%23+msfconsole+-q;msf6+%3E+use+exploit%2Fmulti%2Fhandler" alt="Kali Linux OS" />
 </p>
 
 <p align="center">
@@ -215,10 +215,6 @@
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
