@@ -1,5 +1,7 @@
 <h3 align="center"> &nbsp; <a href="https://LINK-CATATAN-LIVE-KAMU"> <img src="https://img.shields.io/badge/-CATATANKU-00B4FF?style=for-the-badge" alt="" align="center" /> </a> </h3>
 
+---
+
 <!--motivasi-->
 <div align="center">
   
