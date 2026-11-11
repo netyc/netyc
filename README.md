@@ -1,4 +1,4 @@
-<h3 align="center"> &nbsp; <a href="https://netyc.my.id"> <img src="https://img.shields.io/badge/-white-paper-00B4FF?style=for-the-badge" alt="" align="center" /> </a> </h3>
+<h3 align="center"> &nbsp; <a href="https://netyc.my.id"> <img src="https://img.shields.io/badge/-white paper-00B4FF?style=for-the-badge" alt="" align="center" /> </a> </h3>
 
 ---
 
